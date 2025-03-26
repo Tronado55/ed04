@@ -3,13 +3,13 @@ package org.example;
 import java.util.*;
 
 /**
-        * La clase Agenda gestiona una lista de contactos.
-        * Permite añadir, eliminar y modificar contactos y sus números de teléfono.
-        *
-        * @author TuNombre
- * @version 1.0
-        * @since 2025
-        */
+* La clase Agenda gestiona una lista de contactos.
+* Permite añadir, eliminar y modificar contactos y sus números de teléfono.
+*
+* @author TuNombre
+* @version 1.0
+* @since 2025
+*/
 public class Agenda {
     private List<Contacto> contacts; // Lista de Contacto
 
